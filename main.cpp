@@ -7,7 +7,7 @@
 using namespace std;
 
 int main(){
-    vector<char*> appsIlicitos={"Cheat Engine 7.4","Lua"}; //TUDO QUE TIVER NESSA LISTA VAI SER BARRADO PELO SYSTEM
+    vector<char*> appsIlicitos={"Cheat Engine 7.4","Lua"}; //TUDO QUE TIVER NESSA LISTA VAI SER BARRADO PELO PROGRAMA
     int i=0;
 
     while(i<=2){
